@@ -1,5 +1,5 @@
 # function_utility
-Max for Live utiitiy device
+Max for Live utiitiy device.
 This device using the function object to control multiple gui objects
 
 you can:
