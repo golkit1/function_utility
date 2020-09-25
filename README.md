@@ -8,6 +8,7 @@ you can:
 - select between linear mode or curve mode (curve mode let you curving the segments of the envelope using the alt(option) key (mac).
 - choose for each envelope if to start and end at zero point or to be floating (anywhere between 0 and 1 of the Y axis)
 - map each envelope to any GUI object in Ableton (knobs, sliders, sends etc)
+- scale each mapped envelope using the min max live number boxes
     
 control all the mapped envelope with main kbob (Param)
     
