@@ -1,6 +1,6 @@
 # function_utility
 Max for Live utiitiy device.
-This device using the function object to control multiple gui objects
+This device using the function object to control multiple GUI objects
 
 you can:
 - Choose up to 4 different function ('envelope') object and for each one you can:
