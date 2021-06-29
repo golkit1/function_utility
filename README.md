@@ -14,4 +14,6 @@ You can control all the mapped envelopes with the main kbob (Param).
     
 You can save different presets on the device.
 
+Please email me at omer1789@gmail.com for any question or ideas for improvements.
+
 Thanks to all cycling 74' community for helping and sharing their knowledge!
